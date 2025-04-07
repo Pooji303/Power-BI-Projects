@@ -16,10 +16,6 @@ These dashboards are designed for business intelligence reporting, stakeholder a
 #### 🔍 Description
 This dashboard analyzes user behavior on smartphones based on app usage, device type, gender, age, and other key factors.
 
-#### 📷 Preview  
-![User Behavior Dashboard](./images/user_behavior_dashboard.jpg)  
-> _Replace with actual image path or hosted image link_
-
 #### 📌 Key Metrics
 - **Total Battery Usage** (mAh/day)
 - **Total Data Usage** (MB/day)
